@@ -1,0 +1,6 @@
+{
+  "name": "Money Receipt Generator",
+  "description": "Professional offline-first Money Receipt Generator with multi-company profiles, A4 PDF export, direct printing, biometric/PIN lock, and encrypted local & Google Drive backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
